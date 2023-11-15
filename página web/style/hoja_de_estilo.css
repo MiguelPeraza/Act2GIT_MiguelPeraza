@@ -1,0 +1,75 @@
+h1{text-align: center;
+    color: rgb(255, 255, 255);
+    font-weight: 200;
+    font-family:'Dela Gothic One',cursive;
+        
+}
+.entorno{
+    background-color: #a5c2d8cc;
+    color: rgb(255, 255, 255);
+   
+}
+.fol{
+    background-color: blueviolet;
+    color: rgb(255, 255, 255);
+ }
+.base{
+    background-color: #487aa1;
+    color: rgb(255, 255, 255);
+}
+.programación{
+    background-color: rgba(61, 68, 110, 0.712);
+    color: rgb(255, 255, 255);
+}
+.sistemas{
+    background-color: #646463;
+    color: rgb(255, 255, 255);
+    
+}
+.lenguaje{
+    background-color: #7c8071;
+    color: rgb(255, 255, 255);
+}
+table{
+    border: 1px solid black;
+    border-collapse: separate;
+    border-collapse: collapse;
+    text-align: center;
+    margin: auto;
+    height: 8vh;
+    width: 70vw;
+    border-radius: 10px;
+    opacity: 0.8;
+    
+
+    
+   
+}
+th, td{
+    border: 1px solid black;
+    border-collapse: separate;
+    border-collapse: collapse;
+    text-align: center;
+    height: 8vh;
+    width: 70vw;
+    font-family:'Dela Gothic One',cursive;
+    
+}
+  
+.temas{
+    background-color:#dde3cadc ;
+    font-family:'Young Serif', serif;
+}
+#rec{
+    background-color:#dde3cadc ;
+    font-weight: bolder;
+    font-family:'Dela Gothic One',cursive;
+    color: rgb(255, 255, 255);
+}
+.gif{
+    background-image: url(../image/gif.gif);
+    background-position: center;
+    background-size: 115%;
+   
+    
+}
